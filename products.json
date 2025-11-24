@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Zapatillas RunnerX",
+    "slug": "shoes",
+    "image": "img/shoes.jpg",
+    "supplierCost": 8.3,
+    "price": 18.26,
+    "desc": "Zapatillas RunnerX de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 2,
+    "title": "Auriculares TrueSound",
+    "slug": "earbuds",
+    "image": "img/earbuds.jpg",
+    "supplierCost": 11.6,
+    "price": 29.0,
+    "desc": "Auriculares TrueSound de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 3,
+    "title": "Smartwatch Pro",
+    "slug": "watch",
+    "image": "img/watch.jpg",
+    "supplierCost": 14.9,
+    "price": 37.25,
+    "desc": "Smartwatch Pro de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 4,
+    "title": "Mochila Urban",
+    "slug": "backpack",
+    "image": "img/backpack.jpg",
+    "supplierCost": 18.2,
+    "price": 45.5,
+    "desc": "Mochila Urban de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 5,
+    "title": "Cargador Wireless 15W",
+    "slug": "charger",
+    "image": "img/charger.jpg",
+    "supplierCost": 21.5,
+    "price": 53.75,
+    "desc": "Cargador Wireless 15W de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 6,
+    "title": "Funda Silicona",
+    "slug": "case",
+    "image": "img/case.jpg",
+    "supplierCost": 24.8,
+    "price": 62.0,
+    "desc": "Funda Silicona de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 7,
+    "title": "Gafas Sol UV",
+    "slug": "sunglasses",
+    "image": "img/sunglasses.jpg",
+    "supplierCost": 28.1,
+    "price": 70.25,
+    "desc": "Gafas Sol UV de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 8,
+    "title": "Pulsera Fitness",
+    "slug": "band",
+    "image": "img/band.jpg",
+    "supplierCost": 31.4,
+    "price": 78.5,
+    "desc": "Pulsera Fitness de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 9,
+    "title": "Altavoz Bluetooth",
+    "slug": "speaker",
+    "image": "img/speaker.jpg",
+    "supplierCost": 34.7,
+    "price": 86.75,
+    "desc": "Altavoz Bluetooth de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 10,
+    "title": "Cámara Deportiva",
+    "slug": "camera",
+    "image": "img/camera.jpg",
+    "supplierCost": 38.0,
+    "price": 95.0,
+    "desc": "Cámara Deportiva de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 11,
+    "title": "Camiseta Sport",
+    "slug": "tshirt",
+    "image": "img/tshirt.jpg",
+    "supplierCost": 41.3,
+    "price": 103.25,
+    "desc": "Camiseta Sport de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  },
+  {
+    "id": 12,
+    "title": "Gorra Classic",
+    "slug": "cap",
+    "image": "img/cap.jpg",
+    "supplierCost": 44.6,
+    "price": 111.5,
+    "desc": "Gorra Classic de alta calidad. Envío directo al cliente. Marca: genérico. Tiempo estimado 7-18 días."
+  }
+]
